@@ -8,7 +8,7 @@ inspired by [The Zen of Python](https://www.python.org/dev/peps/pep-0020/) and [
 これは原則であって絶対的なものではありません｡
 慣れてきたら柔軟に考えてみましょう｡
 
-開発編は [こちら](https://cartaholdings.kibe.la/notes/37916)
+開発編は [こちら](the-zen-of-zucks-for-dev.md)
 
 ## Publicに活動しよう
 
