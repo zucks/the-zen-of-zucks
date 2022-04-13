@@ -1,4 +1,4 @@
-# The Zen of Zucks を過信しない
+# The Zen of Zucks is not bible
 
 
 ## The Zen of Zucks の存在意義
