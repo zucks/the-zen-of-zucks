@@ -4,4 +4,4 @@
 
 - [The Zen of Zucks](the-zen-of-zucks.md)
 - [The Zen of Zucks 開発編](the-zen-of-zucks-for-dev.md)
-- [The Zen of Zucks をありがたがるべきではない](the-zen-of-zucks-is-not-bible.md)
+- [The Zen of Zucks is not bible](the-zen-of-zucks-is-not-bible.md)
