@@ -13,5 +13,5 @@
 
 ## Links
 
-- [CARTA Engineering TEAMS - Zucks](https://techblog.cartaholdings.co.jp/zucks)
+- [CARTA Engineering TEAMS - Zucks](https://cartaholdings.co.jp/engineering/teams/carta-marketing-firm/)
 - [CARTA TECH BLOG - Zucks](https://techblog.cartaholdings.co.jp/archive/category/Zucks%20%5B%E3%82%A2%E3%83%89%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%5D)
