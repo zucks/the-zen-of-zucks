@@ -2,7 +2,7 @@
 
 <p align="center"><img width="800" src="the-zen-of-zucks.jpg" alt="The Zen of Zucks"></p>
 
-[株式会社Zucks](https://zucks.co.jp/) のエンジニアチームにおけるバリューやプラクティスをまとめています｡
+[Zucks](https://zucks.co.jp/) のエンジニアチームにおけるバリューやプラクティスをまとめています｡
 
 - [The Zen of Zucks](the-zen-of-zucks.md)
   - Zucksにおける基本的なバリューやプラクティス
